@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>panjang text title 1</description>
+   <name>Test untuk News text 65536</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4644718-cbc7-408e-85c1-938072fc3ed3</testCaseGuid>
+</TestCaseEntity>
